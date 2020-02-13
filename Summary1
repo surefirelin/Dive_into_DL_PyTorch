@@ -2,7 +2,7 @@
 Task1: 线性回归；Softmax与分类模型、多层感知机
 Task2: 文本预处理；语言模型；循环神经网络基础
 
-Task1三个任务对应的代码分别总结在：
+Task1三个任务对应的笔记分别总结在：
 linear-regression.ipynb
 linear-regression-scratch.ipynb
 linear-regression-pytorch.ipynb
@@ -15,7 +15,7 @@ MLP.ipynb
 MLP-scratch.ipynb
 MLP-pytorch.ipynb
 
-Task2三个任务对应的代码分别总结在：
+Task2三个任务对应的笔记分别总结在：
 pre-process.ipynb
 pre-process-scratch.ipynb
 pre-process-pytorch.ipynb
